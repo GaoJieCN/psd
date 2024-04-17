@@ -6,8 +6,6 @@ Source code for our TOIS paper: Document-Level Relation Extraction with Progress
 
 We provide codes of PSD  instantiation with ATLOP. Folder named **psd_ikd_docred** includes code related to **PSD**  instantiation with **ATLOP** using **ikd loss** (refer to Section 4.1) runing on **DocRED** dataset. **psd_ikd_redocred**, **psd_ikd_cdr** ,**psd_ikd_gda** are the same. You can find their optimal configurations of tunable hyperparameters in Table 2 and experiment results in Table 3 and Table 4.
 
-Besides, we also provide code of extension PSD described in section 4.2 in folder **psd_ikd_rkd_docred**, which includes code related to **PSD**  instantiation with **ATLOP** using **ikd loss** (refer to Section 4.1) and **rkd loss** (refer to Section 4.2) runing on **DocRED** dataset. 
-
 ### 2.Usage 
 
 You should first install Python dependency packages.
